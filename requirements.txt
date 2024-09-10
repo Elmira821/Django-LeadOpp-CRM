@@ -1,0 +1,24 @@
+django
+celery
+python-dotenv
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+drf-spectacular
+django-ses
+psycopg2-binary
+whitenoise
+sentry-sdk
+wagtail
+django_extensions
+django_storages
+
+drf-rw-serializers
+django-crum
+Redis
+# remove it
+django-phonenumber-field
+arrow
+phonenumbers
+
+drf_yasg
